@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
     int num1, num2, result;
     String strNum1, strNum2, strResult;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
